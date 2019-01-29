@@ -1,0 +1,16 @@
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.csproj.CoreCompileInputs.cache
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.AssemblyInfoInputs.cache
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.AssemblyInfo.cs
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\TestServer.deps.json
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\TestServer.runtimeconfig.json
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\TestServer.runtimeconfig.dev.json
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\TestServer.dll
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\TestServer.pdb
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\Entities.dll
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\Entities.Net.dll
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\Entities.Net.pdb
+G:\C#\Entities\TestServer\bin\Debug\netcoreapp2.1\Entities.pdb
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.csprojAssemblyReference.cache
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.csproj.CopyComplete
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.dll
+G:\C#\Entities\TestServer\obj\Debug\netcoreapp2.1\TestServer.pdb

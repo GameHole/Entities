@@ -1,0 +1,12 @@
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.csprojAssemblyReference.cache
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.csproj.CoreCompileInputs.cache
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.AssemblyInfoInputs.cache
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.AssemblyInfo.cs
+G:\C#\Entities\Entities.Net\bin\Debug\netcoreapp2.1\Entities.Net.deps.json
+G:\C#\Entities\Entities.Net\bin\Debug\netcoreapp2.1\Entities.Net.dll
+G:\C#\Entities\Entities.Net\bin\Debug\netcoreapp2.1\Entities.Net.pdb
+G:\C#\Entities\Entities.Net\bin\Debug\netcoreapp2.1\Entities.dll
+G:\C#\Entities\Entities.Net\bin\Debug\netcoreapp2.1\Entities.pdb
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.csproj.CopyComplete
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.dll
+G:\C#\Entities\Entities.Net\obj\Debug\netcoreapp2.1\Entities.Net.pdb
